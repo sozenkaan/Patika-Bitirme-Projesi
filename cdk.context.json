@@ -1,0 +1,11 @@
+{
+    "kagan": {
+      "env": "dev",
+      "account": "946850939127",
+      "region": "eu-central-1",
+      "vpcId": "vpc-0eaa73c5ec3b751c2",
+      "availabilityZones": ["eu-central-1a", "eu-central-1b"],
+      "publicSubnetIds": ["subnet-072f29c9447ff6ffd", "subnet-0650e17ad424075a0"]
+    }
+  }
+  
